@@ -1,0 +1,6 @@
+#include "immovable.h"
+
+Immovable::Immovable(bool breakable, bool solid) {
+    this->breakable = breakable;
+    this->solid = solid;
+}

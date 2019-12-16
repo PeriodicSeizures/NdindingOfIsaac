@@ -1,0 +1,6 @@
+#include "animator.h"
+#include "../lib/gl2d.h"
+
+void setAutoAnimated(Sprite *sprite) {
+
+}

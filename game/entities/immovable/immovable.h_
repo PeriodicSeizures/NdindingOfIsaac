@@ -1,0 +1,14 @@
+//solid object
+#ifndef IMMOVABLE_H
+#define IMMOVABLE_H
+
+#include "../entity.h"
+
+class Immovable {
+    public:
+        bool breakable;
+        bool solid;
+        Immovable(bool breakable, bool solid);
+};
+
+#endif

@@ -1,0 +1,12 @@
+// animator header
+#ifndef ANIMATOR_H
+#define ANIMATOR_H
+
+#include "../lib/gl2d.h"
+
+void setAutoAnimated(Sprite *sprite); //Animation *anim, )
+
+
+
+
+#endif
